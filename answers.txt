@@ -12,3 +12,7 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines two branches together while keeping the commit sequence intact. Rebasing adds the changes of another branch to the end
 of your base branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my statistical and data analysis skills while also practicing related programming skills.
