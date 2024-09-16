@@ -1,3 +1,9 @@
 Q1: Why might be consider using git?
 
 Answer: Git is helpful to track changes within a project, and it facilitates collaboration.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to criminal justice by helping providing insights in data on rehabilitation and prevention programs. Many
+studies have results of recidivism rates for different programs, so data science could help analyze all of the results and determine which programs
+are working. There are so many different studies with a lot of data, so it would facilitate the analysis of these programs.
